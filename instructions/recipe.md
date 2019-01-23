@@ -1,5 +1,4 @@
-# Recipe for guacamole
 
-1.
-2.
-3.
+1. stir
+2. mash
+3. whip
